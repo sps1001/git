@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {   
-    int a;
-    cin>>a;
-    cout<<a;
+    int b;
+    cin>>b;
+    cout<<b;
     cout<<"very first code for gittty1";
 
      cout<<"very first code for gittty1";
